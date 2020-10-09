@@ -1,2 +1,2 @@
-# google-clone
-build google clone with react js
+# youtube-clone
+build youtube clone with react js
